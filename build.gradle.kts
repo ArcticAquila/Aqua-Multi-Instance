@@ -34,7 +34,7 @@ tasks.withType<Jar> {
 
     // Declare Main Class attributes in the manifest
     manifest {
-        attributes["Main-Class"] = "com.github.arcticaquila.aquamultiinstance.MainKt"
+        attributes["Main-Class"] = "com.github.arcticaquila.aquamultiinstance.VelocityPluginKt"
     }
 
     // Exclude duplicate entries from the JAR
