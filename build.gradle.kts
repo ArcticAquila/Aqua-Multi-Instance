@@ -18,8 +18,8 @@ dependencies {
     implementation("org.jetbrains.kotlin:kotlin-stdlib:1.9.23")
 
     // Dependency for Velocity API
-    compileOnly("com.velocitypowered:velocity-api:3.3.0-SNAPSHOT")
-    kapt("com.velocitypowered:velocity-api:3.3.0-SNAPSHOT")
+    compileOnly("com.velocitypowered:velocity-api:4.0.0-SNAPSHOT")
+    kapt("com.velocitypowered:velocity-api:4.0.0-SNAPSHOT")
 }
 
 tasks.test {
