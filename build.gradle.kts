@@ -1,5 +1,5 @@
 plugins {
-    kotlin("jvm") version "1.9.23"
+    kotlin("jvm") version "1.9.24"
     id("xyz.jpenilla.run-velocity") version "2.2.3"
     kotlin("kapt") version "1.9.23"
 }
