@@ -15,7 +15,7 @@ repositories {
 
 dependencies {
     testImplementation("org.jetbrains.kotlin:kotlin-test")
-    implementation("org.jetbrains.kotlin:kotlin-stdlib:1.9.23")
+    implementation("org.jetbrains.kotlin:kotlin-stdlib:1.9.24")
 
     // Dependency for Velocity API
     compileOnly("com.velocitypowered:velocity-api:4.0.0-SNAPSHOT")
